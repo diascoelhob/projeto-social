@@ -31,14 +31,8 @@ section#cellphone {
     width: 311px;
 }
 
-section#social-media {
-    position: relative;
-    width: 65px;
-    position: relative;
-}
-
 section#cellphone > iframe {
-    position: relative;
+    position: absolute;
     height: 475px;
     width: 268px;
     border-radius: 1px;
